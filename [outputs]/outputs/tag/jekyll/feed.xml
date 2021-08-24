@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator>
+  <link href="https://chanyoung-dev.github.io//tag/jekyll/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="https://chanyoung-dev.github.io//" rel="alternate" type="text/html" />
+<<<<<<< HEAD
+  <updated>2021-08-24T15:45:21+09:00</updated>
+=======
+  <updated>2021-08-24T16:05:22+09:00</updated>
+>>>>>>> 0afe9f5bd819bc1acf740833acd9241e3fd33f7d
+  <id>https://chanyoung-dev.github.io//tag/jekyll/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">Develop study | </title>
+  
+
+  
+    <subtitle>개발 공부기록</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">Jekyll 강좌(1) - 기본</title>
+      <link href="https://chanyoung-dev.github.io//jekyll-basic" rel="alternate" type="text/html" title="Jekyll 강좌(1) - 기본" />
+      <published>2020-06-08T01:40:00+09:00</published>
+      <updated>2020-06-08T01:40:00+09:00</updated>
+      <id>https://chanyoung-dev.github.io//jekyll-basic</id>
+      <content type="html" xml:base="https://chanyoung-dev.github.io//jekyll-basic">&lt;p&gt;이 글은 python basic에 관한 글입니다.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>emrhssla</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="jekyll" />
+      
+
+      
+        <summary type="html">이 글은 python basic에 관한 글입니다.</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>
