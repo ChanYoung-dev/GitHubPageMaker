@@ -1,0 +1,11 @@
+emrhssla :
+  username: emrhssla   # user name : martin
+  name: emrhssla        # user full name : Martin Luther King
+  url_full:             # Homepage url
+  url:
+  bio: <a href="https://www.youtube.com/channel/UCp-MztINXTRVkRGCnqnYNlQ">bio</a>
+                        # 회사정보
+  picture: assets/built/images/author-logo.jpeg   # author image
+  facebook:             # facebook ID
+  twitter:              # twitter ID
+  cover: False
