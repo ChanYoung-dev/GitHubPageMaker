@@ -1,0 +1,3 @@
+[submodule "outputs"]
+	path = outputs
+	url = https://github.com/ChanYoung-dev/chanyoung-dev.github.io.git
